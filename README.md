@@ -36,6 +36,7 @@ A modern and fully responsive **Admin Dashboard** built with **React**, **Tailwi
 ## 🎨 Screenshots
 
 ![Dashboard Home Light Mode](public/images/screenshot1.png)
+---
 ![Dashboard Home Dark Mode](public/images/screenshot2.png)
 
 ---
