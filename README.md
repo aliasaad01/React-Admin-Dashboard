@@ -1,5 +1,4 @@
 <img width="1842" height="927" alt="screenshot1" src="https://github.com/user-attachments/assets/e83d32fc-3ec3-4cb8-bec0-5598bbae30cf" />
-<img width="1842" height="927" alt="screenshot2" src="https://github.com/user-attachments/assets/e83d32fc-3ec3-4cb8-bec0-5598bbae30cf" />
 # React Admin Dashboard
 
 A modern and fully responsive **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Context API**, designed to be clean, scalable, and user-friendly.
