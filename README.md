@@ -1,16 +1,77 @@
-# React + Vite
+# React Admin Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and fully responsive **Admin Dashboard** built with **React**, **Tailwind CSS**, and **Context API**, designed to be clean, scalable, and user-friendly.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🌐 Live Demo
+[View Demo on Vercel](https://react-admin-dashboard-five-smoky.vercel.app/) 
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 📌 Features
+- **Responsive Layout**: Works perfectly on desktop, tablet, and mobile.
+- **Sidebar Navigation**: Collapsible sidebar with active link highlighting.
+- **Navbar with Popups**:
+  - Shopping Cart with dynamic quantity and subtotal calculation.
+  - Chat panel with messages and input box.
+  - Notifications panel with scrollable list.
+  - User Profile dropdown with menu options.
+- **Dark / Light Mode** toggle using Context API.
+- **Reusable Components**: Buttons, Charts, Tables, Cards, etc.
+- **Charts & Data Visualization**:
+  - Sparkline chart for budget vs expense trends.
+  - Stacked bar chart for revenue breakdown.
+  - Line chart for sales analytics.
+  - Pie chart for distribution metrics.
+- **Tables**:
+  - Dashboard table for latest data.
+  - Sales table with order details.
+  - Stacked data table for detailed metrics.
+  - Each Table Using Filtering or Pagination or Search or Delete ...etc.
+- **Clean & Scalable Project Structure**.
 
-## Expanding the ESLint configuration
+---
+## 🎨 Screenshots
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Dashboard Home Light Mode](images/screenshot1.png)
+![Dashboard Home Dark Mode](images/screenshot2.png)
+
+---
+
+## 🛠 Tech Stack
+- **Frontend**: React, React Router
+- **Styling**: Tailwind CSS
+- **State Management**: Context API
+- **Icons**: React Icons
+- **Charts**: Custom components using chart libraries (SparkLine, Stacked, Line, Pie)
+
+---
+
+## 📂 Project Structure
+```txt
+src/
+├─ components/      # Reusable UI components (Buttons, Charts, Tables, Popups)
+├─ contexts/        # Context API for global state management
+├─ data/            # Dummy data for tables, charts, and dashboard
+├─ pages/           # Main pages (Dashboard/Ecommerce)
+├─ App.jsx          # Main app component with routing
+└─ main.jsx         # App entry point
+
+---
+## ⚙️ Installation & Run
+
+Clone the repository:
+```bash
+git clone https://github.com/aliasaad01/React-Admin-Dashboard.git
+npm install
+npm run dev
+
+---
+```
+## 👨‍💻 Author
+**Ali Asaad (علوش)**  
+Frontend Developer  
+- GitHub: [https://github.com/aliasaad01](https://github.com/aliasaad01)
+
+- ⭐ If you like this project, give it a star!
