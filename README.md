@@ -72,7 +72,7 @@ npm run dev
 ```
 ## 👨‍💻 Author
 **Ali Asaad**  
-Frontend Developer  
+Front-End Developer | React.js  
 - GitHub: [https://github.com/aliasaad01](https://github.com/aliasaad01)
 
 - ⭐ If you like this project, give it a star!
