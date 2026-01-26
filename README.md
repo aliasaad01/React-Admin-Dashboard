@@ -5,7 +5,7 @@ A modern and fully responsive **Admin Dashboard** built with **React**, **Tailwi
 ---
 
 ## 🌐 Live Demo
-[View Demo on Vercel](https://react-admin-dashboard-five-smoky.vercel.app/) 
+[View Live Demo on Vercel](https://react-admin-dashboard-five-smoky.vercel.app/) 
 
 ---
 
